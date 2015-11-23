@@ -1,6 +1,6 @@
 <snippet>
-  <content><![CDATA[
-# ${1:go-score-counter}
+  <content>
+# go-score-counter
 
 Application meant to provide a visual recognition for a complete Go game through smartphone APN and return the final score.
 Possible future features are :
